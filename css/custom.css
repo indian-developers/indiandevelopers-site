@@ -19,3 +19,24 @@ footer img{
   height: 51px;
   width: 128px;
 }
+#internship-sec{
+  background-color: antiquewhite;
+  margin-top: 90px;
+}
+#internship-sec div h2{
+  text-align: center;
+}
+#internship-sec div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#internship-sec div iframe{
+  margin:40px auto;
+}
+body::-webkit-scrollbar{
+  display: none;
+}
+#internship-sec div iframe::-webkit-scrollbar{
+  display: none;
+}
