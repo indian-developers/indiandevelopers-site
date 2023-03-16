@@ -24,6 +24,7 @@ footer img{
   margin-top: 90px;
 }
 #internship-sec div h2{
+  margin-top: 10px;
   text-align: center;
   font-size: 25px;
 }
@@ -33,7 +34,7 @@ footer img{
   justify-content: center;
 }
 #internship-sec div iframe{
-  margin:40px auto;
+  margin:5px auto;
 }
 body::-webkit-scrollbar{
   display: none;
